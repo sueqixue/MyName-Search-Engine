@@ -61,4 +61,4 @@ Pull docker image
 
 ## Walkthrough video
 
-[![Walkthrough]()](https://youtu.be/iawv2tOq-zQ)
+[![Walkthrough](https://img.youtube.com/vi/iawv2tOq-zQ/0.jpg)](https://youtu.be/iawv2tOq-zQ)
