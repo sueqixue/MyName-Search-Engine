@@ -18,7 +18,7 @@ UPITT_2020Spring_CS1660_Course_Project
 * Constructing basic Map-Reduce inverting indices
 * Deployed on the GCP Cluster
 
-## Getting Started
+## Getting Start
 	
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
