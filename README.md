@@ -62,3 +62,7 @@ Pull docker image
 ## Walkthrough video
 
 [![Walkthrough](https://img.youtube.com/vi/iawv2tOq-zQ/0.jpg)](https://youtu.be/iawv2tOq-zQ)
+
+## Credentials
+
+If you need the google cluster credentials, you can check the diff of 'Second' commit.
